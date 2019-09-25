@@ -16,4 +16,8 @@ public class InboxPage {
 	 public void clickNewMessage() {
 		 inboxPageContent.newMessage.click();
 	 }
+	 
+	 public void clickLastMail() {
+		 inboxPageContent.lastMail.click();
+	 }
 }

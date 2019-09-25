@@ -14,6 +14,6 @@ public class NewMessageContent {
 	public WebElement body;
 	
 	
-	@FindBy(id = "id__950")
+	@FindBy (xpath = "//div[contains(text(),'Enviar')]")
 	public WebElement btnSend;
 }
