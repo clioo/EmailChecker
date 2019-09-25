@@ -1,0 +1,6 @@
+name: Suite
+configFailurePolicy: skip
+parameters: { password: 123correoseguro), email: chicho_guionbajo@hotmail.com }
+tests:
+  - name: Test
+

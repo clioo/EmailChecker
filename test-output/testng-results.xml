@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16343" started-at="2019-09-24T22:15:22 MDT" finished-at="2019-09-24T22:15:38 MDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16343" started-at="2019-09-24T22:15:22 MDT" finished-at="2019-09-24T22:15:38 MDT">
+      <class name="test.LoginActions">
+        <test-method status="PASS" signature="setBrowser()[pri:0, instance:test.LoginActions@49fc609f]" name="setBrowser" is-config="true" duration-ms="5453" started-at="2019-09-24T22:15:16 MDT" finished-at="2019-09-24T22:15:22 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.LoginActions@49fc609f]" name="testCase" duration-ms="16307" started-at="2019-09-24T22:15:22 MDT" finished-at="2019-09-24T22:15:38 MDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chicho_guionbajo@hotmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123correoseguro)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jesús Carlos Acosta Rocha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.LoginActions@49fc609f]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2019-09-24T22:15:38 MDT" finished-at="2019-09-24T22:15:38 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.LoginActions -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
